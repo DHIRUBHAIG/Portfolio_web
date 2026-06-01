@@ -1,6 +1,7 @@
 'use client';
 
 import ContactForm from '../components/ContactForm';
+import SocialContacts from '../components/SocialContacts';
 import ScrollProgress from '../components/ScrollProgress';
 import ThemeToggle from '../components/ThemeToggle';
 import { motion } from 'framer-motion';
@@ -756,6 +757,11 @@ export default function HomePage() {
               </div>
             </div>
             <ContactForm />
+          </div>
+          
+          {/* Social Contacts Section */}
+          <div className="mt-12 border-t border-white/10 pt-12">
+            <SocialContacts />
           </div>
         </section>
 
