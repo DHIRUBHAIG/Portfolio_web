@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     google: 'VlycmZ8ci7hSri3N',
   },
 
-  metadataBase: new URL('https://dhiraj-gupta.dev'),
+  metadataBase: new URL('https://portfolio-a2s9hhcd4-dhiru.vercel.app/'),
   openGraph: {
     title: 'Dhiraj Kumar Gupta | AI & ML Portfolio',
     description: 'Portfolio website of Dhiraj Kumar Gupta, CSE AIML student at LNCT Bhopal.',
