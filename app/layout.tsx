@@ -1,9 +1,16 @@
 import './globals.css';
 import type { Metadata } from 'next';
 
+
+
 export const metadata: Metadata = {
   title: 'Dhiraj Kumar Gupta | AI & ML Portfolio',
   description: 'Dhiraj Kumar Gupta portfolio - CSE AIML student, AI/ML developer, software engineer, and problem solver from LNCT Bhopal.',
+
+  verification: {
+    google: 'VlycmZ8ci7hSri3N',
+  },
+
   metadataBase: new URL('https://dhiraj-gupta.dev'),
   openGraph: {
     title: 'Dhiraj Kumar Gupta | AI & ML Portfolio',
