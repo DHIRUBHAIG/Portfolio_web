@@ -8,10 +8,12 @@ export const metadata: Metadata = {
   description: 'Dhiraj Kumar Gupta portfolio - CSE AIML student, AI/ML developer, software engineer, and problem solver from LNCT Bhopal.',
 
   verification: {
-    google: 'VlycmZ8ci7hSri3N',
+    google: 'VIycmZ8ci7hSri3NWdMzsl4cGRftNsxEA9MJRzimDQE',
+
   },
 
-  metadataBase: new URL('https://portfolio-a2s9hhcd4-dhiru.vercel.app/'),
+
+  metadataBase: new URL('https://portfolio-web-zeta-lac.vercel.app/'),
   openGraph: {
     title: 'Dhiraj Kumar Gupta | AI & ML Portfolio',
     description: 'Portfolio website of Dhiraj Kumar Gupta, CSE AIML student at LNCT Bhopal.',
